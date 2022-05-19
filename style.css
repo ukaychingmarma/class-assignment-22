@@ -103,3 +103,38 @@ nav li{
 .item-4{
      padding: 30px 20px;
 }
+/* -----------form-section------------ */
+/* -----------form-section------------ */
+.form-section{
+     background-color: #ebeff4;
+
+}
+.form-section h2{
+     font-weight: 400;
+}
+.font-size-1{
+     font-weight: 400;
+     font-size: 1.4rem;
+}
+.col-uk{
+     width:60%;
+     
+}
+.col-ukay{
+     width:40%;
+     margin-top: 100px;
+}
+input{
+     font-size: 1.4rem !important;
+}
+textarea{
+     font-size: 1.2rem !important
+}
+.address p{
+     font-size: 1.8rem;
+     font-weight: 500;
+}
+address{
+     font-size: 1.3rem;
+     line-height: 3rem;
+}
